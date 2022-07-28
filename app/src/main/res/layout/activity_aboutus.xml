@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg1"
+    tools:context=".Aboutus">
+
+  <TextView
+      android:layout_width="393dp"
+      android:layout_height="363dp"
+      android:text="Essentially, the Shop App is a companion for your online shoppers that makes it easier to find the products and brands that they want. What's more, because customers can track their purchases, this increases trust in your brand too. Online shopping as defined by Master Card Worldwide Insights (2008) is the process of purchasing goods and services from merchants who sell over the internet. Generally, it is also known as internet buying, electronic shopping, online purchasing or internet shopping. By factoring in product discovery, customer service, deals, returns and more, retailers are optimizing the way people shop and making it easier for them to buy from their mobile devices."
+      android:textAlignment="center"
+      android:textColor="#6A1894"
+      android:textSize="18sp"
+      tools:layout_editor_absoluteX="3dp"
+      tools:layout_editor_absoluteY="128dp" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
