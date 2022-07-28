@@ -22,5 +22,6 @@ public class Payment extends AppCompatActivity {
         shipping = findViewById(R.id.textView18);
         total = findViewById(R.id.total_amt);
         subtotal.setText(amount+"$");
+
     }
 }
